@@ -24,3 +24,14 @@ Main Page Should Be Open
 
 Go To Login Page
     Go To  ${LOGIN URL}
+
+Go To Register Page
+    Go To  ${REGISTER URL}
+
+Go To Home Page
+    Go To  ${HOME URL}
+
+Register Page Should Be Open
+    Title Should Be  Register
+
+
