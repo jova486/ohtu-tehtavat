@@ -25,9 +25,9 @@ class Ostoskori:
         # kertoo korissa olevien ostosten yhteenlasketun hinnan
 
     def lisaa_tuote(self, lisattava: Tuote):
-        for tuote in self.__ostokset:
-            if tuote._nimi == lisattava.nimi:
-                tuote.lukumaara +=1
+        for ostos in self.__ostokset:
+            if ostos.tuote._nimi == lisattava.nimi:
+                ostos.lukumaara +=1
                 return
         self.__ostokset.append(Ostos(lisattava))
 
