@@ -71,15 +71,15 @@ class IntJoukko:
 
     @staticmethod
     def erotus(a, b):
-        z = IntJoukko()
+        c = IntJoukko()
         a_taulu = a.to_int_list()
         b_taulu = b.to_int_list()
 
         for i in (a_taulu):
             if i not in b_taulu:
-                z.lisaa(i)
+                c.lisaa(i)
 
-        return z
+        return c
 
     def __str__(self):
         return "{"+f'{", ".join(map(lambda x: str(x), self.to_int_list()))}'+"}"
