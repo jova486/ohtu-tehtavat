@@ -7,7 +7,6 @@ class CounterLibrary:
 
     def increase_counter(self):
         self._counter.increase()
-        print("test")
 
     def increment_counter_by(self, amount):
         int_amount = int(amount)
