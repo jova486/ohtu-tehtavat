@@ -5,6 +5,10 @@ class CounterLibrary:
     def __init__(self):
         self._counter = Counter()
 
+
+    def muutos(self):
+        self._counter.increase()
+
     def increase_counter(self):
         self._counter.increase()
 
