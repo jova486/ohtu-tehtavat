@@ -5,6 +5,7 @@ Tiimin jäsenet kirjoittavat korteille huomioita kuluneesta printistä. Nämä v
 - tyytyväisyyttä
 - surullisuutta
 - vihaa.
+
 Tämän jälkeen ryhmittellään kortin joissa käsitellään samoja aiheita omiin ryhmiinsä. Ryhmittelyn jälkeen äänestetään ryhmistä korteista joita halutaan käsitellä ja ne järjestetään annettujen äänien mukaan. Sitten niistä keskustellaan kunnes kaikki käsiteltävät on käsitelty tai retrospektiiville varattu aika (tunti) tulee täyteen.
 
 
@@ -16,4 +17,5 @@ Ideana on että tiimin jäsenet tuovat esiin 5 luokkaa edustavai aiheita kysymä
 - Mitä työtä haluamme jatkaa?
 - Mitä meidän pitäisi tehdä enemmän?
 - Mitä meidän pitäisi tehdä vähemmän?
+
 Kun aiheita on tullut esiin, niistä keskustellaan lyhyesti. Tämän ei ole tarkoitus kestää kuin 10-25 minuuttia.
